@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "ime": "Kuća Kralja Petra",
+    "opis": "Petrova Kuća je autentično rekonstruisana kuća šumadijskog stila. Nalazi se na Oplencu, u Topoli i predstavlja deo kompeksa Zadužbine Kralja Petra I. Zadužbina je osnovana testamentom kralja Petra I Karađorđevića, napisanog u Kragujevcu 18. novembra 1914. godine. ",
+    "webadresa": "https://oplenac.rs/sr/%d0%ba%d1%83%d1%9b%d0%b0-%d0%ba%d1%80%d0%b0%d1%99%d0%b0-%d0%bf%d0%b5%d1%82%d1%80%d0%b0/?lang=sr",
+    "slika": "https://upload.wikimedia.org/wikipedia/commons/9/96/Petrova_ku%C4%87a.jpg",
+    },
+  
+    {
+    "id": 2,
+    "ime": "Kraljeva Vinarija",
+    "opis": "Kraljeva vinarija i vinogradi se nalaze u podnožju Oplenca, u Topoli, kao jedna od najstarijih vinarija u Srbiji. Osnivač vinarije je kralj Petar I, iako najveće zasluge za razvoj vinarstva i vinogradarstva pripadaju njegovom nasledniku kralju Aleksandru I. Vinarija je danas u sastavu Zadužbine Kralj Petar I. ",
+    "webadresa": "https://www.google.rs/",
+    "slika": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Wiki_%C5%A0umadija_V_Kraljeva_vinarija_589.jpg", 
+    },
+  
+    {
+    "id": 3,
+    "ime": "Karađorđev Konak",
+    "opis": "Karađorđev konak, koji se u literaturi naziva Karađorđev dvor ili njegova prestona rezidencija, najreprezentativnija je građevina u okviru kompleksa Karađorđevog grada.",
+    "webadresa": "https://www.rubin.rs/wp-content/uploads/2021/01/rubinov-vinjak-V-5-630x630.png",
+    "slika": "https://upload.wikimedia.org/wikipedia/commons/8/85/Wiki_%C5%A0umadija_V_Kara%C4%91or%C4%91ev_konak_302.jpg",
+    },
+]
